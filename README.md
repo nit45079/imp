@@ -1005,3 +1005,56 @@ css only responsive nagivation: http://valdelama.com/static/demo/responav/css-on
 Responsive designs: http://www.catswhocode.com/blog/super-useful-jquery-plugins-for-responsive-web-design
 
 02ndjuly 2013: webteacher.com
+
+04th July 2013:
+nice website:
+http://www.joshbroton.com/sessions/rocking-the-responsive-web-wordcamp/index.html#/
+http://maddesigns.de/responsive-images/wmka.html#9
+kidblog.org
+
+11th july:
+13 time saving tools for designers:
+http://goo.gl/TVjke
+
+12th July 2013:
+useful twitter bootstrap:
+http://www.bentdesignstudio.com/v2/2012/03/twitter-bootstrap-2-photoshop-template-psd/
+http://www.behance.net/gallery/Bootstrap-PSD-http://gui.repixdesign.com/
+http://benstewart.net/2012/06/bootstrap-responsive-photoshop-templates/
+
+jquery templates:
+http://www.codeproject.com/Articles/558474/An-Example-to-Use-jQuery-Template
+https://github.com/BorisMoore/jquery-tmpl
+
+15th July 2013:
+Backbone+jquery template
+http://lostechies.com/derickbailey/2011/06/20/rendering-backbone-views-with-jquery-templates/
+http://stackoverflow.com/questions/7091467/backbone-jquery-tmpl-applying-style-to-template-item
+https://gist.github.com/derickbailey/1037163
+
+16th July 2013:
+Json examples:
+http://jsonformat.com/
+http://www.jquery4u.com/json/customer-form-json-file-example/
+http://www.jquery4u.com/json/products-database-json-file/
+
+24th July 2013:
+Responsive web design:
+http://learn.shayhowe.com/advanced-html-css/responsive-web-design
+http://www.nitinh.com/2013/03/vertically-responsive-design-keeping-things-abo/static/above-fold/
+
+Web Development Project Estimator:
+http://astuteo.com/estimator/
+
+Understanding vertical-align:
+http://phrogz.net/CSS/vertical-align/index.html
+http://www.jakpsatweb.cz/css/css-vertical-center-solution.html
+
+02nd August:
+Good websites
+http://www.cssmania.com/
+http://triplee.ca/
+https://samsungindiaestore.com/enhancedEnterpriseCoupon/Cybage/Cybage.aspx
+Backbone js:
+https://github.com/hegdeashwin/Backbone
+https://www.payzippy.com/merchants
