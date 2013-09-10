@@ -1058,3 +1058,56 @@ https://samsungindiaestore.com/enhancedEnterpriseCoupon/Cybage/Cybage.aspx
 Backbone js:
 https://github.com/hegdeashwin/Backbone
 https://www.payzippy.com/merchants
+
+22nd August:
+jquery media query:
+https://github.com/serbanghita/jquery-plugins/tree/master/css-media-queries-for-ie
+
+29th August:
+Angular js:
+http://egghead.io/
+
+Built on the top of backbone:
+https://github.com/marionettejs/backbone.marionette
+
+Backbonejs vs Angularjs : Demystifying the myths
+http://blog.nebithi.com/backbone-and-angular-demystifying-the-myths/
+http://jsperf.com/angularjs-vs-backbone
+http://sporto.github.io/blog/2013/04/12/comparison-angular-backbone-can-ember/
+http://net.tutsplus.com/tutorials/javascript-ajax/3-reasons-to-choose-angularjs-for-your-next-project/
+
+Nice website:
+http://marionettejs.com/
+
+30th August 2013:
+20 css examples:
+http://develop-a-website.com/20-amazing-css-examples
+
+10-less-css-examples-you-should-steal-for-your-projects
+
+http://designshack.net/articles/css/10-less-css-examples-you-should-steal-for-your-projects/
+
+09th september 2013:
+Mobile parallax with stellar
+http://markdalgleish.com/2012/10/mobile-parallax-with-stellar-js/
+http://markdalgleish.com/examples/mobileparallax/
+
+30 Great Websites with Parallax Scrolling
+http://www.awwwards.com/30-great-websites-with-parallax-scrolling.html
+
+20 Best Websites with Parallax Scrolling of 2013
+http://www.awwwards.com/20-best-websites-with-parallax-scrolling-of-2013.html
+
+30 eye-popping examples of parallax scrolling websites
+http://www.creativebloq.com/web-design/parallax-scrolling-1131762
+
+good parallax website:
+http://boy-coy.com/#home
+http://www.dangersoffracking.com/
+http://www.tridentpp.com/
+http://flashvhtml.com/
+
+http://css-tricks.com/forums/topic/parallax-scrolling-that-actually-works-on-ipad/
+
+Android custom ROM
+http://forum.xda-developers.com/showthread.php?t=2204370
